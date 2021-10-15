@@ -94,6 +94,6 @@ Add the following to your config.h
 |   UK_UNDS    |   _          |   ✓   |   ✓   |   ✓   |
 |   UK_GRV     |   `          |   ✓   |   ✓   |   ✓   |
 |   UK_LCBR    |   {          |   ✓   |   ✓   |   ✓   |
-|   UK_PIPE    |   |          |   ✓   |   ✓   |   ✓   |
+|   UK_PIPE    |  PIPE        |   ✓   |   ✓   |   ✓   |
 |   UK_RCBR    |   }          |   ✓   |   ✓   |   ✓   |
 |   UK_TILD    |   ~          |   ✓   |   ✓   |   ✓   |
