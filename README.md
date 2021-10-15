@@ -1,4 +1,10 @@
 # QMK_UNICODE_KEYS
+Add the following to your keymap.c
+
+```c
+#include "qmk_unicode_keys.h"
+```
+
 
 Add the following to your rules.mk
 
